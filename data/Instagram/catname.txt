@@ -1,0 +1,427 @@
+1001,Amphitheater
+1002,Aquarium
+1003,Arcade
+1004,Art Gallery
+1005,Bowling Alley
+1006,Casino
+1007,Circus
+1008,Comedy Club
+1009,Concert Hall
+1010,Country Dance Club
+1011,Disc Golf
+1012,Exhibit
+1013,General Entertainment
+1014,Go Kart Track
+1015,Historic Site
+1016,Karaoke Box
+1017,Laser Tag
+1018,Memorial Site
+1019,Mini Golf
+1020,Movie Theater
+1021,Museum
+1022,Music Venue
+1023,Pachinko Parlor
+1024,Performing Arts Venue
+1025,Pool Hall
+1026,Public Art
+1027,Racecourse
+1028,Racetrack
+1029,Roller Rink
+1030,Salsa Club
+1031,Samba School
+1032,Stadium
+1033,Theme Park
+1034,Tour Provider
+1035,Water Park
+1036,Zoo
+2001,College Academic Building
+2002,College Administrative Building
+2003,College Auditorium
+2004,College Bookstore
+2005,College Cafeteria
+2006,College Classroom
+2007,College Gym
+2008,College Lab
+2009,College Library
+2010,College Quad
+2011,College Rec Center
+2012,College Residence Hall
+2013,College Stadium
+2014,College Theater
+2015,Community College
+2016,Fraternity House
+2017,General College & University
+2018,Law School
+2019,Medical School
+2020,Sorority House
+2021,Student Center
+2022,Trade School
+2023,University
+4001,Afghan Restaurant
+4002,African Restaurant
+4003,American Restaurant
+4004,Asian Restaurant
+4005,Australian Restaurant
+4006,Austrian Restaurant
+4007,BBQ Joint
+4008,Bagel Shop
+4009,Bakery
+4010,Belgian Restaurant
+4011,Bistro
+4012,Breakfast Spot
+4013,Bubble Tea Shop
+4014,Buffet
+4015,Burger Joint
+4016,Cafeteria
+4017,Cafe
+4018,Cajun / Creole Restaurant
+4019,Caribbean Restaurant
+4020,Caucasian Restaurant
+4021,Coffee Shop
+4022,Comfort Food Restaurant
+4023,Creperie
+4024,Czech Restaurant
+4025,Deli / Bodega
+4026,Dessert Shop
+4027,Diner
+4028,Donut Shop
+4029,Dumpling Restaurant
+4030,Dutch Restaurant
+4031,Eastern European Restaurant
+4032,English Restaurant
+4033,Falafel Restaurant
+4034,Fast Food Restaurant
+4035,Fish & Chips Shop
+4036,Fondue Restaurant
+4037,Food Court
+4038,Food Stand
+4039,Food Truck
+4040,French Restaurant
+4041,Fried Chicken Joint
+4042,Friterie
+4043,Gastropub
+4044,German Restaurant
+4045,Gluten-free Restaurant
+4046,Greek Restaurant
+4047,Halal Restaurant
+4048,Hawaiian Restaurant
+4049,Hot Dog Joint
+4050,Hungarian Restaurant
+4051,Indian Restaurant
+4052,Irish Pub
+4053,Italian Restaurant
+4054,Jewish Restaurant
+4055,Juice Bar
+4056,Kebab Restaurant
+4057,Latin American Restaurant
+4058,Mac & Cheese Joint
+4059,Mediterranean Restaurant
+4060,Mexican Restaurant
+4061,Middle Eastern Restaurant
+4062,Modern European Restaurant
+4063,Molecular Gastronomy Restaurant
+4064,Pakistani Restaurant
+4065,Cafe
+4066,Pizza Place
+4067,Polish Restaurant
+4068,Portuguese Restaurant
+4069,Poutine Place
+4070,Restaurant
+4071,Russian Restaurant
+4072,Salad Place
+4073,Sandwich Place
+4074,Scandinavian Restaurant
+4075,Scottish Restaurant
+4076,Seafood Restaurant
+4077,Slovak Restaurant
+4078,Snack Place
+4079,Soup Place
+4080,Southern / Soul Food Restaurant
+4081,Spanish Restaurant
+4082,Sri Lankan Restaurant
+4083,Steakhouse
+4084,Swiss Restaurant
+4085,Tea Room
+4086,Theme Restaurant
+4087,Turkish Restaurant
+4088,Ukrainian Restaurant
+4089,Vegetarian / Vegan Restaurant
+4090,Wings Joint
+5001,Bar
+5002,Brewery
+5003,Lounge
+5004,Night Market
+5005,Nightclub
+5006,Other Nightlife
+5007,Speakeasy
+5008,Strip Club
+6001,Athletics & Sports
+6002,Bathing Area
+6003,Bay
+6004,Beach
+6005,Bike Trail
+6006,Botanical Garden
+6007,Bridge
+6008,Campground
+6009,Canal Lock
+6010,Canal
+6011,Castle
+6012,Cave
+6013,Cemetery
+6014,Dive Spot
+6015,Dog Run
+6016,Farm
+6017,Field
+6018,Fishing Spot
+6019,Forest
+6020,Fountain
+6021,Garden
+6022,Gun Range
+6023,Harbor / Marina
+6024,Hot Spring
+6025,Indoor Play Area
+6026,Island
+6027,Lake
+6028,Lighthouse
+6029,Mountain Hut
+6030,Mountain
+6031,National Park
+6032,Nature Preserve
+6033,Other Great Outdoors
+6034,Palace
+6035,Park
+6036,Pedestrian Plaza
+6037,Playground
+6038,Plaza
+6039,Pool
+6040,Rafting
+6041,Recreation Center
+6042,Reservoir
+6043,River
+6044,Rock Climbing Spot
+6045,Scenic Lookout
+6046,Sculpture Garden
+6047,Ski Area
+6048,Stables
+6049,States & Municipalities
+6050,Summer Camp
+6051,Trail
+6052,Tree
+6053,Vineyard
+6054,Volcano
+6055,Waterfall
+6056,Waterfront
+6057,Well
+7001,Animal Shelter
+7002,Auditorium
+7003,Ballroom
+7004,Building
+7005,Business Center
+7006,Club House
+7007,Community Center
+7008,Convention Center
+7009,Cultural Center
+7010,Distillery
+7011,Distribution Center
+7012,Event Space
+7013,Factory
+7014,Fair
+7015,Funeral Home
+7016,Government Building
+7017,Industrial Estate
+7018,Laboratory
+7019,Library
+7020,Medical Center
+7021,Military Base
+7022,Non-Profit
+7023,Observatory
+7024,Office
+7025,Parking
+7026,Post Office
+7027,Prison
+7028,Radio Station
+7029,Recruiting Agency
+7030,School
+7031,Social Club
+7032,Spiritual Center
+7033,TV Station
+7034,Voting Booth
+7035,Warehouse
+7036,Wedding Hall
+7037,Winery
+8001,Assisted Living
+8002,Home (private)
+8003,Housing Development
+8004,Residential Building (Apartment / Condo)
+8005,Trailer Park
+9001,ATM
+9002,Adult Boutique
+9003,Antique Shop
+9004,Arts & Crafts Store
+9005,Astrologer
+9006,Auto Dealership
+9007,Auto Garage
+9008,Auto Workshop
+9009,Automotive Shop
+9010,Baby Store
+9011,Bank
+9012,Bath House
+9013,Batik Shop
+9014,Betting Shop
+9015,Big Box Store
+9016,Bike Shop
+9017,Board Shop
+9018,Bookstore
+9019,Bridal Shop
+9020,Business Service
+9021,Camera Store
+9022,Candy Store
+9023,Car Wash
+9024,Carpet Store
+9025,Check Cashing Service
+9026,Child Care Service
+9027,Chocolate Shop
+9028,Clothing Store
+9029,Comic Shop
+9030,Construction & Landscaping
+9031,Convenience Store
+9032,Cosmetics Shop
+9033,Costume Shop
+9034,Credit Union
+9035,Currency Exchange
+9036,Department Store
+9037,Design Studio
+9038,Discount Store
+9039,Dive Shop
+9040,Drugstore
+9041,Dry Cleaner
+9042,EV Charging Station
+9043,Electronics Store
+9044,Entertainment Service
+9045,Event Service
+9046,Fabric Shop
+9047,Film Studio
+9048,Financial or Legal Service
+9049,Fireworks Store
+9050,Fishing Store
+9051,Flea Market
+9052,Floating Market
+9053,Flower Shop
+9054,Food & Drink Shop
+9055,Frame Store
+9056,Fruit & Vegetable Store
+9057,Furniture / Home Store
+9058,Gaming Cafe
+9059,Garden Center
+9060,Gas Station
+9061,Gift Shop
+9062,Gun Shop
+9063,Hardware Store
+9064,Health & Beauty Service
+9065,Herbs & Spices Store
+9066,Hobby Shop
+9067,Home Service
+9068,Hunting Supply
+9069,IT Services
+9070,Internet Cafe
+9071,Jewelry Store
+9072,Knitting Store
+9073,Laundromat
+9074,Laundry Service
+9075,Lawyer
+9076,Leather Goods Store
+9077,Locksmith
+9078,Lottery Retailer
+9079,Luggage Store
+9080,Marijuana Dispensary
+9081,Market
+9082,Massage Studio
+9083,Mattress Store
+9084,Miscellaneous Shop
+9085,Mobile Phone Shop
+9086,Mobility Store
+9087,Motorcycle Shop
+9088,Music Store
+9089,Nail Salon
+9090,Newsstand
+9091,Optical Shop
+9092,Other Repair Shop
+9093,Outdoor Supply Store
+9094,Outlet Mall
+9095,Outlet Store
+9096,Paper / Office Supplies Store
+9097,Pawn Shop
+9098,Perfume Shop
+9099,Pet Service
+9100,Pet Store
+9101,Pharmacy
+9102,Photography Lab
+9103,Photography Studio
+9104,Piercing Parlor
+9105,Pop-Up Shop
+9106,Print Shop
+9107,Public Bathroom
+9108,Real Estate Office
+9109,Record Shop
+9110,Recording Studio
+9111,Recycling Facility
+9112,Rental Service
+9113,Salon / Barbershop
+9114,Shipping Store
+9115,Shoe Repair
+9116,Shopping Mall
+9117,Shopping Plaza
+9118,Ski Shop
+9119,Smoke Shop
+9120,Smoothie Shop
+9121,Souvenir Shop
+9122,Spa
+9123,Sporting Goods Shop
+9124,Stationery Store
+9125,Storage Facility
+9126,Supplement Shop
+9127,Tailor Shop
+9128,Tanning Salon
+9129,Tattoo Parlor
+9130,Thrift / Vintage Store
+9131,Toy / Game Store
+9132,Travel Agency
+9133,Used Bookstore
+9134,Vape Store
+9135,Video Game Store
+9136,Video Store
+9137,Warehouse Store
+9138,Watch Shop
+10001,Airport
+10002,Baggage Locker
+10003,Bike Rental / Bike Share
+10004,Boat Rental
+10005,Boat or Ferry
+10006,Border Crossing
+10007,Bus Station
+10008,Bus Stop
+10009,Cable Car
+10010,Cruise
+10011,General Travel
+10012,Heliport
+10013,Hotel
+10014,Intersection
+10015,Light Rail Station
+10016,Metro Station
+10017,Moving Target
+10018,Pier
+10019,Port
+10020,RV Park
+10021,Rental Car Location
+10022,Rest Area
+10023,Road
+10024,Taxi Stand
+10025,Taxi
+10026,Toll Booth
+10027,Toll Plaza
+10028,Tourist Information Center
+10029,Train Station
+10030,Tram Station
+10031,Transportation Service
+10032,Travel Lounge
+10033,Tunnel
